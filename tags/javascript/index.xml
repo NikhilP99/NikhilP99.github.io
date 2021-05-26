@@ -97,40 +97,5 @@ function func(p1, p2, p3) { console.log(p1, p2, p3); } // the binding starts aft
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;name&lt;/code&gt; property is lost.&lt;/p&gt;</description>
     </item>
     
-    <item>
-      <title>VueのNavigation Guards</title>
-      <link>https://np99.me/posts/2019-01-19-vue-navigation-guards/</link>
-      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
-      
-      <guid>https://np99.me/posts/2019-01-19-vue-navigation-guards/</guid>
-      <description>Navigation guards are provided by vue-router. Three ways to hook:
- globally per-route in-component  NOTE:
- Params or query changes won&amp;rsquo;t trigger enter/leave navigation guards. You can either watch the $route object to react to those changes, or use the beforeRouteUpdate in-component guard. Make sure to always call the next function, otherwise the hook will never be resolved.  Global const router = new VueRouter({ ... }) // Before Guards router.</description>
-    </item>
-    
-    <item>
-      <title>ES6について</title>
-      <link>https://np99.me/posts/2019-01-18-es6/</link>
-      <pubDate>Fri, 18 Jan 2019 16:00:00 +0000</pubDate>
-      
-      <guid>https://np99.me/posts/2019-01-18-es6/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/lukehoban/es6features#readme&#34;&gt;https://github.com/lukehoban/es6features#readme&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://help.wtf/es6&#34;&gt;http://help.wtf/es6&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://es6-features.org&#34;&gt;http://es6-features.org&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;string&#34;&gt;String&lt;/h2&gt;
-&lt;h3 id=&#34;stringx-is-deprecated-use-stringprototypex-instead&#34;&gt;String.x is deprecated; use String.prototype.x instead.&lt;/h3&gt;
-&lt;p&gt;非推奨の構文:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Javascript&#34; data-lang=&#34;Javascript&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;num&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;15&lt;/span&gt;; 
-String.&lt;span style=&#34;color:#a6e22e&#34;&gt;replace&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;num&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;/5/&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;2&amp;#39;&lt;/span&gt;);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;標準の構文:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Javascript&#34; data-lang=&#34;Javascript&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;var&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;num&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;15&lt;/span&gt;;
-String(&lt;span style=&#34;color:#a6e22e&#34;&gt;num&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;replace&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;/5/&lt;/span&gt;, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;2&amp;#39;&lt;/span&gt;);
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;template-literal&#34;&gt;Template literal&lt;/h3&gt;
-&lt;p&gt;Nesting templates:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-Javascript&#34; data-lang=&#34;Javascript&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;classes&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;`header &lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isLargeScreen&lt;/span&gt;() &lt;span style=&#34;color:#f92672&#34;&gt;?&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;`icon-&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;item&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;isCollapsed&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;?&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;expander&amp;#39;&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;collapser&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;}&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;`&lt;/span&gt;;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
-    
   </channel>
 </rss>
