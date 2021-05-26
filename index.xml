@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nikhil Patel</copyright>
-    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 May 2021 16:49:39 +0530</lastBuildDate>
     
 	<atom:link href="https://np99.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About me</title>
+      <link>https://np99.me/about/</link>
+      <pubDate>Wed, 26 May 2021 16:49:39 +0530</pubDate>
+      
+      <guid>https://np99.me/about/</guid>
+      <description>Hello,
+I&amp;rsquo;m Nikhil Patel, a graduate from the Department of Mechanical Engineering (Shh&amp;hellip;), IIT Kharagpur and currently employed as SDE in Jio Platforms Limited.
+I have a keen interest in software development specifically in Backend development, DevOps and automation. I like to create scripts,bots,jobs to automate small and redundant tasks. I&amp;rsquo;m very intrigued with the impact technology have over our lives these days.
+Another thing which changes lives? Music. And that&amp;rsquo;s what I would do for a living if I could.</description>
+    </item>
     
     <item>
       <title>Changes to String in java (from 1.7.0_06)</title>

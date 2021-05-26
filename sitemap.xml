@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://np99.me/about/</loc>
+    <lastmod>2021-05-26T16:49:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://np99.me/</loc>
+    <lastmod>2021-05-26T16:49:39+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://np99.me/tags/algorithms/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url>
@@ -19,11 +29,6 @@
   
   <url>
     <loc>https://np99.me/categories/notes/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/</loc>
     <lastmod>2020-06-06T09:00:00+00:00</lastmod>
   </url>
   
