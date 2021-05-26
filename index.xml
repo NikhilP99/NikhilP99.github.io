@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nikhil Patel</copyright>
-    <lastBuildDate>Wed, 24 Aug 2016 17:51:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://np99.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -326,15 +326,6 @@ Oh what a thing to have done
 And it was all Yellow
 噢这过程充满不安羞怯和点滴暖意
 Your skin</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://np99.me/about/</link>
-      <pubDate>Wed, 24 Aug 2016 17:51:42 +0000</pubDate>
-      
-      <guid>https://np99.me/about/</guid>
-      <description>Github: monkeyWzr</description>
     </item>
     
   </channel>
