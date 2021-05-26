@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NP99 a.k.a Nikhil Patel</title>
+    <link>https://np99.me/tags/</link>
+    <description>Recent content in Tags on NP99 a.k.a Nikhil Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Nikhil Patel</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://np99.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Algorithms</title>
+      <link>https://np99.me/tags/algorithms/</link>
+      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/algorithms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming language</title>
+      <link>https://np99.me/tags/programming-language/</link>
+      <pubDate>Wed, 29 Apr 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/programming-language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racket</title>
+      <link>https://np99.me/tags/racket/</link>
+      <pubDate>Sat, 29 Feb 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/racket/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SML</title>
+      <link>https://np99.me/tags/sml/</link>
+      <pubDate>Mon, 30 Dec 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/sml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RPA</title>
+      <link>https://np99.me/tags/rpa/</link>
+      <pubDate>Sat, 23 Nov 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/rpa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://np99.me/tags/javascript/</link>
+      <pubDate>Sun, 10 Nov 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vue.js</title>
+      <link>https://np99.me/tags/vue.js/</link>
+      <pubDate>Fri, 25 Jan 2019 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/vue.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>php</title>
+      <link>https://np99.me/tags/php/</link>
+      <pubDate>Wed, 11 Jan 2017 18:39:17 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/php/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://np99.me/tags/ruby/</link>
+      <pubDate>Thu, 08 Dec 2016 22:54:49 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://np99.me/tags/linux/</link>
+      <pubDate>Tue, 29 Nov 2016 21:08:52 +0000</pubDate>
+      
+      <guid>https://np99.me/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on NP99 a.k.a Nikhil Patel</title>
+    <link>https://np99.me/categories/</link>
+    <description>Recent content in Categories on NP99 a.k.a Nikhil Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Nikhil Patel</copyright>
+    <lastBuildDate>Sat, 06 Jun 2020 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://np99.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>notes</title>
+      <link>https://np99.me/categories/notes/</link>
+      <pubDate>Sat, 06 Jun 2020 09:00:00 +0000</pubDate>
+      
+      <guid>https://np99.me/categories/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://np99.me/categories/life/</link>
+      <pubDate>Sat, 22 Oct 2016 16:56:54 +0000</pubDate>
+      
+      <guid>https://np99.me/categories/life/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
