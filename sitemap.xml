@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://np99.me/categories/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://np99.me/tags/hugo/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://np99.me/posts/npm-init/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://np99.me/posts/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://np99.me/tags/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://np99.me/categories/tech/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://np99.me/about/</loc>
     <lastmod>2021-05-26T16:49:39+05:30</lastmod>
   </url>
@@ -10,121 +40,6 @@
   <url>
     <loc>https://np99.me/</loc>
     <lastmod>2021-05-26T16:49:39+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/algorithms/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/categories/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2020-06-06-changes-in-java-string/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/categories/notes/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/</loc>
-    <lastmod>2020-06-06T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2020-05-01-algorithms-graphs/</loc>
-    <lastmod>2020-05-01T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/programming-language/</loc>
-    <lastmod>2020-04-29T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2020-04-29-subtyping/</loc>
-    <lastmod>2020-04-29T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/racket/</loc>
-    <lastmod>2020-02-29T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2020-02-29-racket/</loc>
-    <lastmod>2020-02-29T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/sml/</loc>
-    <lastmod>2019-12-30T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-12-30-standardml-notes/</loc>
-    <lastmod>2019-12-30T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/rpa/</loc>
-    <lastmod>2019-11-23T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-11-23-uipath-orchestrator/</loc>
-    <lastmod>2019-11-23T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-11-18-uipath-best-practice/</loc>
-    <lastmod>2019-11-18T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/javascript/</loc>
-    <lastmod>2019-11-10T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-11-10-encodeuricomponent/</loc>
-    <lastmod>2019-11-10T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-10-27-uipath/</loc>
-    <lastmod>2019-10-27T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-03-28-javascript-comparison/</loc>
-    <lastmod>2019-03-28T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-03-22-js-tips/</loc>
-    <lastmod>2019-03-22T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-03-08-es6-bind-trick/</loc>
-    <lastmod>2019-03-08T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/2019-03-08-object-assign-with-accessor-descriptor/</loc>
-    <lastmod>2019-03-08T09:00:00+00:00</lastmod>
   </url>
   
 </urlset>

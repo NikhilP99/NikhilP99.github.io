@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on NP99 a.k.a Nikhil Patel</title>
-    <link>https://np99.me/posts/</link>
-    <description>Recent content in Posts on NP99 a.k.a Nikhil Patel</description>
+    <title>Hugo on NP99 a.k.a Nikhil Patel</title>
+    <link>https://np99.me/tags/hugo/</link>
+    <description>Recent content in Hugo on NP99 a.k.a Nikhil Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nikhil Patel</copyright>
     <lastBuildDate>Fri, 28 May 2021 19:33:47 +0530</lastBuildDate>
     
-	<atom:link href="https://np99.me/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://np99.me/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
