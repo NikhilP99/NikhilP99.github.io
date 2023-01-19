@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NP99 a.k.a Nikhil Patel</title>
-    <link>https://np99.me/categories/</link>
+    <link>https://nikhilpatel.tech/categories/</link>
     <description>Recent content in Categories on NP99 a.k.a Nikhil Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nikhil Patel</copyright>
-    <lastBuildDate>Fri, 28 May 2021 19:33:47 +0530</lastBuildDate>
-    
-	<atom:link href="https://np99.me/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 May 2021 19:33:47 +0530</lastBuildDate><atom:link href="https://nikhilpatel.tech/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://np99.me/categories/tech/</link>
+      <link>https://nikhilpatel.tech/categories/tech/</link>
       <pubDate>Fri, 28 May 2021 19:33:47 +0530</pubDate>
       
-      <guid>https://np99.me/categories/tech/</guid>
+      <guid>https://nikhilpatel.tech/categories/tech/</guid>
       <description></description>
     </item>
     

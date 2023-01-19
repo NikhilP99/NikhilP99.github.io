@@ -2,32 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NP99 a.k.a Nikhil Patel</title>
-    <link>https://np99.me/</link>
+    <link>https://nikhilpatel.tech/</link>
     <description>Recent content on NP99 a.k.a Nikhil Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nikhil Patel</copyright>
-    <lastBuildDate>Wed, 26 May 2021 16:49:39 +0530</lastBuildDate>
-    
-	<atom:link href="https://np99.me/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 May 2021 19:33:47 +0530</lastBuildDate><atom:link href="https://nikhilpatel.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>npm init</title>
-      <link>https://np99.me/posts/npm-init/</link>
+      <link>https://nikhilpatel.tech/posts/npm-init/</link>
       <pubDate>Fri, 28 May 2021 19:33:47 +0530</pubDate>
       
-      <guid>https://np99.me/posts/npm-init/</guid>
-      <description>console.log(&amp;ldquo;Hello World!&amp;quot;); Finally, after a few failed attempts and a lot of procrastination, the blog is live. I tried this with other platforms like Medium and Hacker Noon, but that just wasn&amp;rsquo;t feeling right. It was time to ditch CMS and take control.
+      <guid>https://nikhilpatel.tech/posts/npm-init/</guid>
+      <description>console.log(&amp;ldquo;Hello World!&amp;rdquo;); Finally, after a few failed attempts and a lot of procrastination, the blog is live. I tried this with other platforms like Medium and Hacker Noon, but that just wasn&amp;rsquo;t feeling right. It was time to ditch CMS and take control.
 Static Site Generators What is a Static Site Generator(SSG)? Simply put, it is a tool that generates static websites from the given content. It takes markdown files as input and compiles them into a standard HTML, CSS, JS static website using template engines.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://np99.me/about/</link>
+      <link>https://nikhilpatel.tech/about/</link>
       <pubDate>Wed, 26 May 2021 16:49:39 +0530</pubDate>
       
-      <guid>https://np99.me/about/</guid>
+      <guid>https://nikhilpatel.tech/about/</guid>
       <description>Hello,
 I&amp;rsquo;m Nikhil Patel, a graduate from the Department of Mechanical Engineering (Shh&amp;hellip;), IIT Kharagpur and currently employed as SDE in Jio Platforms Limited.
 I have a keen interest in software development, specifically in Backend development, DevOps and automation. My weapons of choice are JavaScript and Python. I like to create scripts, bots, jobs to automate small and redundant tasks. I&amp;rsquo;m always excited about the endless possibilities that the world of programming offers and the impact technology has over our lives.</description>

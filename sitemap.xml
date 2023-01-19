@@ -1,45 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://np99.me/categories/</loc>
+    <loc>https://nikhilpatel.tech/categories/</loc>
     <lastmod>2021-05-28T19:33:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/hugo/</loc>
+  </url><url>
+    <loc>https://nikhilpatel.tech/tags/hugo/</loc>
     <lastmod>2021-05-28T19:33:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/npm-init/</loc>
+  </url><url>
+    <loc>https://nikhilpatel.tech/</loc>
     <lastmod>2021-05-28T19:33:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/posts/</loc>
+  </url><url>
+    <loc>https://nikhilpatel.tech/posts/npm-init/</loc>
     <lastmod>2021-05-28T19:33:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/tags/</loc>
+  </url><url>
+    <loc>https://nikhilpatel.tech/posts/</loc>
     <lastmod>2021-05-28T19:33:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/categories/tech/</loc>
+  </url><url>
+    <loc>https://nikhilpatel.tech/tags/</loc>
     <lastmod>2021-05-28T19:33:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://np99.me/about/</loc>
+  </url><url>
+    <loc>https://nikhilpatel.tech/categories/tech/</loc>
+    <lastmod>2021-05-28T19:33:47+05:30</lastmod>
+  </url><url>
+    <loc>https://nikhilpatel.tech/about/</loc>
     <lastmod>2021-05-26T16:49:39+05:30</lastmod>
   </url>
-  
-  <url>
-    <loc>https://np99.me/</loc>
-    <lastmod>2021-05-26T16:49:39+05:30</lastmod>
-  </url>
-  
 </urlset>

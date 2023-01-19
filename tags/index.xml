@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NP99 a.k.a Nikhil Patel</title>
-    <link>https://np99.me/tags/</link>
+    <link>https://nikhilpatel.tech/tags/</link>
     <description>Recent content in Tags on NP99 a.k.a Nikhil Patel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Nikhil Patel</copyright>
-    <lastBuildDate>Fri, 28 May 2021 19:33:47 +0530</lastBuildDate>
-    
-	<atom:link href="https://np99.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 28 May 2021 19:33:47 +0530</lastBuildDate><atom:link href="https://nikhilpatel.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo</title>
-      <link>https://np99.me/tags/hugo/</link>
+      <link>https://nikhilpatel.tech/tags/hugo/</link>
       <pubDate>Fri, 28 May 2021 19:33:47 +0530</pubDate>
       
-      <guid>https://np99.me/tags/hugo/</guid>
+      <guid>https://nikhilpatel.tech/tags/hugo/</guid>
       <description></description>
     </item>
     
